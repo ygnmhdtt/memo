@@ -58,6 +58,14 @@
 * others
   - https://www.slideshare.net/lestrrat/goapi-go-conference-2018-spring
 
+* HTTP/2
+  - https://www.nginx.com/blog/7-tips-for-faster-http2-performance/
+  - https://knowledge.sakura.ad.jp/7734/
+  - http://takehora.hatenadiary.jp/entry/2017/12/27/011121
+  - https://spelldata.co.jp/blog/blog-2018-05-22.html
+  - https://spelldata.co.jp/blog/blog-2018-04-13.html
+  - https://spelldata.co.jp/blog/blog-2017-10-25.html
+
 * リュック
   - https://amario.jp/?mode=cate&csid=0&cbid=2285505
   - http://www.links-gohongi.com/shopdetail/000000000645/
