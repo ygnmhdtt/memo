@@ -66,6 +66,13 @@
   - https://spelldata.co.jp/blog/blog-2018-04-13.html
   - https://spelldata.co.jp/blog/blog-2017-10-25.html
 
+* ISUCON
+  - https://owl-works.org/essay/entries/ishocon2_writeup
+  - http://www.denzow.me/entry/2018/08/26/000949
+  - https://goryudyuma.hatenablog.jp/entry/2018/08/26/190411
+  - https://serinuntius.hatenablog.jp/entry/2018/08/26/201418
+  - https://github.com/serinuntius/ishocon2-2
+
 * リュック
   - https://amario.jp/?mode=cate&csid=0&cbid=2285505
   - http://www.links-gohongi.com/shopdetail/000000000645/
