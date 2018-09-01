@@ -46,6 +46,12 @@
   - http://kimitok.hateblo.jp/entry/2014/11/09/211820
   - https://postd.cc/the-end-of-microservices/
 
+* compiler
+  - http://0x19f.hatenablog.com/entry/2018/08/20/200432
+  - http://0x19f.hatenablog.com/entry/2017/10/31/032600
+  - https://github.com/ShinyaKato/seccamp2018
+  - https://github.com/ShinyaKato/sk2cc
+
 * others
   - https://www.slideshare.net/lestrrat/goapi-go-conference-2018-spring
 
