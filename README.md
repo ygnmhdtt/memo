@@ -52,6 +52,9 @@
   - https://github.com/ShinyaKato/seccamp2018
   - https://github.com/ShinyaKato/sk2cc
 
+* database
+  - https://dev.mysql.com/doc/refman/5.6/ja/optimization.html
+
 * others
   - https://www.slideshare.net/lestrrat/goapi-go-conference-2018-spring
 
